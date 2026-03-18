@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://dummyimage.com/1200x250/0d1117/ffffff&text=MediFlow+Clinic+%7C+Enterprise+Healthcare+Management+System" alt="MediFlow Clinic Banner">
+</p>
+
 # Smart Clinic Management System
 
 A full‑stack, cloud‑ready healthcare management platform built with Spring Boot, Spring MVC, REST APIs, MySQL, and MongoDB.
